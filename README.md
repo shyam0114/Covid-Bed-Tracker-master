@@ -1,4 +1,3 @@
-# Covid-Bed-Tracker-master
 
 # Covid Bed Tracker
 
